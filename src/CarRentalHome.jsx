@@ -74,7 +74,7 @@ const CarRentalHome = () => {
         </div>
         <div className="feature">
           <h2>Excellent Service</h2>
-          <p>24/7 customer support for a seamless experience.</p>
+          <p>24/7 customer support for a best experience.</p>
         </div>
       </section>
     </div>
